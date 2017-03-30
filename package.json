@@ -1,0 +1,13 @@
+{
+  "name": "FrienCo",
+  "version": "1.0.0",
+  "description": "FrienCo Website",
+  "main": "index.js",
+  "repository": "https://github.com/Michae-zHOU/FrienCo.git",
+  "author": "Michael Zhou and David Zou",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
